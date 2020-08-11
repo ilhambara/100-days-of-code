@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: August 11, 2020
-##### (delete me or comment me out)
 
 **Today's Progress**: Completed Basic HTML and HTML5 on FreeCodeCamp.
 
