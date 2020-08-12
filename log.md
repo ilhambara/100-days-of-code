@@ -8,5 +8,12 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
+### Day 2: August 12, 2020
+
+**Today's Progress**: Completed Basic CSS on FreeCodeCamp.
+
+**Thoughts:** I'm continuing my journey on FreeCodeCamp as a beginning journey for this challenge. 
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
 
