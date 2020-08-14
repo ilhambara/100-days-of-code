@@ -15,7 +15,6 @@
 
 **Thoughts:** I'm continuing my journey on FreeCodeCamp as a beginning journey for this challenge. 
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
 ### Day 3: August 13, 2020
 
@@ -23,7 +22,6 @@
 
 **Thoughts:** I split this part into two days of challenge for a better understandable knowledge.  
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
 ### Day 4: August 14, 2020
 
@@ -31,6 +29,5 @@
 
 **Thoughts:** Today, I've completed it and head to the next part. Hope it will lead me to a brightier future.  
 
-**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
 
