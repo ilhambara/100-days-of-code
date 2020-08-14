@@ -8,6 +8,7 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
+
 ### Day 2: August 12, 2020
 
 **Today's Progress**: Completed Basic CSS on FreeCodeCamp.
