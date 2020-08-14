@@ -16,4 +16,20 @@
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
+### Day 3: August 13, 2020
+
+**Today's Progress**: Learned and Completed Applied Visual Design on FreeCodeCamp.
+
+**Thoughts:** I split this part into two days of challenge for a better understandable knowledge.  
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+
+### Day 4: August 14, 2020
+
+**Today's Progress**: Learned and Completed Applied Visual Design on FreeCodeCamp.
+
+**Thoughts:** Today, I've completed it and head to the next part. Hope it will lead me to a brightier future.  
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+
 
