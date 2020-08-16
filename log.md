@@ -30,4 +30,17 @@
 **Thoughts:** Today, I've completed it and head to the next part. Hope it will lead me to a brightier future.  
 
 
+### Day 5: August 15, 2020
+
+**Today's Progress**: Learned and Completed Applied Accessibility on FreeCodeCamp.
+
+**Thoughts:** Because this topic is crucial, despite the course isn't as lots as before. I decided to separate it into two days.  
+
+
+### Day 6: August 16, 2020
+
+**Today's Progress**: Learned and Completed Applied Accessibility on FreeCodeCamp.
+
+**Thoughts:** On the other hand, it's the weekend. I slow down my pace a little, so yeah.
+
 
