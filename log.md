@@ -44,3 +44,23 @@
 **Thoughts:** On the other hand, it's the weekend. I slow down my pace a little, so yeah.
 
 
+### Day 7: August 17, 2020
+
+**Today's Progress**: Taking a Break from Coding, but Still Managed to Learn a New Stuff.
+
+**Thoughts:** That day was Independence Day of my country, Indonesia. So I'm about to celebrate it with my relatives.
+
+
+### Day 8: August 18, 2020
+
+**Today's Progress**: Continuing Course About Responsive Web Design on FreeCodeCamp.
+
+**Thoughts:** This topic only containing 4 modules. Fortunately, I've been learning it a couple weeks ago.
+
+
+### Day 9: August 19, 2020
+
+**Today's Progress**: Learned CSS Flexbox on FreeCodeCamp. I got a little bit of struggle.
+
+**Thoughts:** CSS Flexbox is one of my favorite topic related to CSS3. And I'm really enjoying it, even when I encountered a little confusion.
+
