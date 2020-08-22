@@ -64,3 +64,26 @@
 
 **Thoughts:** CSS Flexbox is one of my favorite topic related to CSS3. And I'm really enjoying it, even when I encountered a little confusion.
 
+
+### Day 10: August 20, 2020
+
+**Today's Progress**: Learning CSS Grid for Responsive Web Design Certification on FreeCodeCamp (last part before projects).
+
+**Thoughts:** CSS Grid trained me a lot on this Certification. This took me 2 days to complete. But I'm really enjoying it.
+
+
+### Day 11: August 21, 2020
+
+**Today's Progress**: Reviewing My Knowledges about CSS Flexbox and CSS Grid for Better Understandable.
+
+**Thoughts:** Right before headed to the projects, I was sharpening my knowledge for this two on CSS3.
+
+
+### Day 12: August 22, 2020
+
+**Today's Progress**: Stepping Up on The First Project: Build a Tribute Page.
+
+**Thoughts:** I'm very happy also feel a bit hesitant. But still managed to complete it on my own. Head to the next project!
+
+
+
