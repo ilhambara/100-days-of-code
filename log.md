@@ -86,4 +86,48 @@
 **Thoughts:** I'm very happy also feel a bit hesitant. But still managed to complete it on my own. Head to the next project!
 
 
+### Day 13: August 23, 2020
+
+**Today's Progress**: Landing on The Second Project: Build a Survey Form. (part 1)
+
+**Thoughts:** Very excited when I realize that there's a new knowledges I can grab in this project. Sit down and monitor's on!
+
+
+### Day 14: August 24, 2020
+
+**Today's Progress**: Landing on The Second Project: Build a Survey Form. (part 2)
+
+**Thoughts:** It took me 2 days to working on this project. Not because I'm slowing down the progress, but I try to not skip any important lesson.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
