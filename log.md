@@ -104,7 +104,7 @@
 
 **Today's Progress**: Into The Third Project: Build a Product Landing Page. (part 1)
 
-**Thoughts:** While I'm working on this project, it encouraged me to release the best that I can. Still didn't lose any single point to enjoying things.
+**Thoughts:** While working on this project, it encouraged me to release the best that I can. Still didn't lose any single point to enjoying things.
 
 
 ### Day 16: August 26, 2020
@@ -114,12 +114,11 @@
 **Thoughts:** Besides completing this project, I also build my fundamentals to the next level by experimenting some stuff related to CSS. This is a treasure behind it all.
 
 
+### Day 17: August 27, 2020
 
+**Today's Progress**: Into The Third Project: Build a Product Landing Page. (part 3)
 
-
-
-
-
+**Thoughts:** On my third day, I was confident enough but still open to reach the next pit stop. Very comfortable feeling to close it with style.
 
 
 
